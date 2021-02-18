@@ -1,4 +1,7 @@
-# contao-themes-net/mate-theme-bundle
+# fork of contao-themes-net/mate-theme-bundle
+
+the goal of this fork is to keep more "vanilla"-materialize styles, especially regarding the forms
+
 mate - exhilarating contao theme for contao cms
 
 license
